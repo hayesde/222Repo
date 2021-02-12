@@ -17,7 +17,7 @@ consumes:
 produces: 
   - "application/json"
 paths: 
-  /cpu:
+  /mycpu:
     get:
       tags:
         - CPU
